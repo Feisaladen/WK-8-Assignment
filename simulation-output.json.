@@ -1,0 +1,14 @@
+[
+  {
+    "case_id": "001",
+    "agent_name": "AI Negotiation Agent",
+    "problem": "Buyer wants discount, seller wants to keep margins high.",
+    "constraints": {
+      "buyer_budget_kes": 50000,
+      "seller_min_kes": 65000
+    },
+    "agent_action": "Ran multi-step negotiation strategy",
+    "outcome": "Settled at KES 57,500",
+    "timestamp": "2025-12-07T20:00:00.000Z"
+  }
+]
